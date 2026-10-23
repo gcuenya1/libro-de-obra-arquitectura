@@ -1,0 +1,16 @@
+{
+  "name": "Libro de Obra Digital",
+  "short_name": "Libro de Obra",
+  "description": "Libro de Obra digital: planillas de control, bitácora, órdenes de servicio, actas y fotos.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f2c48",
+  "theme_color": "#1f4e79",
+  "lang": "es-AR",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
